@@ -1,0 +1,14 @@
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\bin\Debug\net10.0\Exam2-C#.exe
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\bin\Debug\net10.0\Exam2-C#.deps.json
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\bin\Debug\net10.0\Exam2-C#.runtimeconfig.json
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\bin\Debug\net10.0\Exam2-C#.dll
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\bin\Debug\net10.0\Exam2-C#.pdb
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\obj\Debug\net10.0\Exam2-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\obj\Debug\net10.0\Exam2-C#.AssemblyInfoInputs.cache
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\obj\Debug\net10.0\Exam2-C#.AssemblyInfo.cs
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\obj\Debug\net10.0\Exam2-C#.csproj.CoreCompileInputs.cache
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\obj\Debug\net10.0\Exam2-C#.dll
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\obj\Debug\net10.0\refint\Exam2-C#.dll
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\obj\Debug\net10.0\Exam2-C#.pdb
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\obj\Debug\net10.0\Exam2-C#.genruntimeconfig.cache
+C:\Users\shahr\Desktop\Exam2-C#\Exam2-C#\obj\Debug\net10.0\ref\Exam2-C#.dll
