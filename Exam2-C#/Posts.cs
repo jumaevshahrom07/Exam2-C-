@@ -15,18 +15,40 @@ public class Posts
     public bool IsPublished {get; set;}
 
 
+    // public void Publish()
+    // {
+    //     Console.WriteLine($"The post is published."); 
+    // }
+
+    // public void Like(string x)
+    // {
+    //     Comments.Add(x);
+    // }
+
+    // public void GetInfo()
+    // {
+    //     Console.WriteLine($"Title {Title} Description {Description} LikeCount {LikeCount}");
+    // }
+
     public void Publish()
     {
-        Console.WriteLine($"The post is published."); 
+        IsPublished = true;
+        Console.WriteLine("The post is published.");
     }
 
-    public void Like(string x)
+    public void Like()
     {
-        Comments.Add(x);
+        LikeCount++;
+    }
+
+    public void Comment(string message)
+    {
+        Comments.Add(message);
     }
 
     public void GetInfo()
     {
-        Console.WriteLine($"Title {Title} Description {Description} LikeCount {LikeCount}");
+        Console.WriteLine($"{Title} – {Description} – number of Likes: {LikeCount}");
     }
+
 }

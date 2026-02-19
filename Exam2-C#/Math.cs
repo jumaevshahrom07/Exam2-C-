@@ -4,9 +4,9 @@ namespace Exam2_C_;
 
 public class Math
 {
-    public double PI {get; set;} = 3.14;
+    public const double PI  = 3.14;
 
-    public double E {get; set;} = 2.71;
+    public const double E  = 2.71;
 
 
 
@@ -88,7 +88,3 @@ public class Math
         }
     }
 }
-
-
-
-

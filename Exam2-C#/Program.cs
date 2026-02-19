@@ -85,4 +85,39 @@ Exam2_C_.Posts postsssss = new Exam2_C_.Posts()
     Comments = {"Super", "Car", "{5}"},
 };
 
+Console.WriteLine();
+Console.WriteLine("Post1");
+Console.WriteLine();
+posts.Like();
+posts.Publish();
+posts.GetInfo();
+
+Console.WriteLine();
+Console.WriteLine("Post2");
+Console.WriteLine();
+postss.Like();
+postss.Publish();
+postss.GetInfo();
+
+Console.WriteLine();
+Console.WriteLine("Post3");
+Console.WriteLine();
+postsss.Like();
+postsss.Publish();
+postsss.GetInfo();
+
+Console.WriteLine();
+Console.WriteLine("Post4");
+Console.WriteLine();
+postssss.Like();
+postssss.Publish();
+postssss.GetInfo();
+
+Console.WriteLine();
+Console.WriteLine("Post5");
+Console.WriteLine();
+postsssss.Like();
+postsssss.Publish();
+postsssss.GetInfo();
+
 
